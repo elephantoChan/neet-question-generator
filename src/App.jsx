@@ -15,7 +15,7 @@ const App = () => {
 
   // Constants for API calls and UI elements.
   const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=';
-  const API_KEY = ''; // This will be automatically populated by the Canvas environment.
+  const API_KEY = 'AIzaSyB2Krz58BA5eFPiXQQVi4uYO1Cn6AN2B3Q'; // This will be automatically populated by the Canvas environment.
 
   /**
    * Encodes a file as a base64 data URL.
